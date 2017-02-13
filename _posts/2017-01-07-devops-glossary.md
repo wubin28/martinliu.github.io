@@ -26,7 +26,7 @@ image:
 | Application Deployment | 应用部署
 | Artifact Management | 构件库管理
 | Automation | 自动化
-| Blamelessness | 免责
+| Blamelessness | 莫怪 -[免责]
 | Cloud Computing | 云计算
 | Collaboration | 协作
 | Configuration Management | 配置管理
